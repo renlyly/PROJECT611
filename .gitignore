@@ -1,3 +1,4 @@
+.gitignore
 *.gz
 *.sqlite
 *.Rproj
@@ -9,4 +10,3 @@
 *.txt
 *.tmp
 .Rhistory
-.gitignore
