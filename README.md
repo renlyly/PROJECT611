@@ -29,7 +29,7 @@ docker run -v $(pwd):/workspace/myproject \
 ```
 
 ## Git
-The full code and data a availiable in `git clone https://github.com/renlyly/611project.git`. If the files under the 'HW folder This is the develop version.
+The full code and data a availiable in `git clone https://github.com/renlyly/PROJECT611.git`. If the files under the 'HW folder This is the develop version.
 
 ## create the results: makefile
 
